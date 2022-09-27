@@ -29,11 +29,18 @@ A US-based housing company named Surprise Housing has decided to enter the Austr
 - scipy - version 1.7.1 
 
 ## Conclusions
+Optimal value of alpha for ridge: 7
+Optimal value of alpha for ridge: 100
 Significant variables to predict
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- OverallQual
+- MSZoning_FV
+- Neighborhood_Veenker
+- Exterior2nd_CmentBd
+- GarageFinish_NA
+- Neighborhood_NoRidge
+- 2ndFlrSF
+- Neighborhood_NridgHt
+- MSZoning_RL
 
 
 ## Contact
